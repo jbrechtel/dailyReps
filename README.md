@@ -29,4 +29,4 @@ practice and a library of these exercises that can be used by others.
 - Implement my own version of List
 - Implement Functor for that type
 
-# See ChangeLog.md for history
+### See [ChangeLog.md](ChangeLog.md) for history
