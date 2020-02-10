@@ -26,7 +26,6 @@ practice and a library of these exercises that can be used by others.
 - Write a function to extract the wrapped value from that ADT
 - Implement my own version of Maybe
 - Implement Functor for that type
-- Implement my own version of List
-- Implement Functor for that type
+- Implement Applicative for that type
 
 ### See [ChangeLog.md](ChangeLog.md) for history
