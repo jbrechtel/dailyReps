@@ -17,15 +17,13 @@ practice and a library of these exercises that can be used by others.
 
 # Current workout detail
 
-- Write `fmap` for a list. A function that goes from `(a -> b) -> [a] -> [b]`
-- Write `fmap` for `Maybe`. A function that goes from `(a -> b) -> [a] -> [b]`
-- Create an Algebraic Data Type (ADT)
-- Write a function that goes from that ADT to a `String` (with unique values for
-  each)
+- Write `foldl` for a list. A function that goes from `(b -> a -> b) -> b -> [a] -> b`
 - Write a polymorphic ADT
 - Write a function to extract the wrapped value from that ADT
 - Implement my own version of Maybe
 - Implement Functor for that type
 - Implement Applicative for that type
+- Implement Alternative for that type
+- Implement Foldable for that type
 
 ### See [ChangeLog.md](ChangeLog.md) for history
