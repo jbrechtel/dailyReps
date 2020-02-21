@@ -25,5 +25,7 @@ practice and a library of these exercises that can be used by others.
 - Implement Applicative for that type
 - Implement Alternative for that type
 - Implement Foldable for that type
+- Implement Semigroup for that type
+- Implement Monoid for that type
 
 ### See [ChangeLog.md](ChangeLog.md) for history
