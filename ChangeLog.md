@@ -6,5 +6,6 @@
 - 2020-02-13: No reps :(
 - 2020-02-14: Reps, used foldMap instead of foldr for foldable, 8 minutes
 - 2020-02-21: Reps, 10 min. Missed several days. Added Semigroup and Monoid
+- 2020-02-24: Reps, 10 min. Weekends :(
 
 
