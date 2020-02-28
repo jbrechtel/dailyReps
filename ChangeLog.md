@@ -9,5 +9,7 @@
 - 2020-02-24: Reps, 10 min. Weekends :(
 - 2020-02-25: Reps, 10 min. Removed polymorphic ADT rep. 10 min
 - 2020-02-27: Reps, 8 min.
+- 2020-02-28: Reps, 10 min. Changed Maybe to Either. Thought about how some
+  typeclasses can't be implemented with Either or require arbitrary tradeoffs
 
 

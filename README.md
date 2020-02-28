@@ -18,10 +18,10 @@ practice and a library of these exercises that can be used by others.
 # Current workout detail
 
 - Write `foldl` for a list. A function that goes from `(b -> a -> b) -> b -> [a] -> b`
-- Implement my own version of Maybe
+- Implement my own version of Either
 - Implement Functor for that type
 - Implement Applicative for that type
-- Implement Alternative for that type
+- ~~Implement Alternative for that type~~
 - Implement Foldable for that type
 - Implement Semigroup for that type
 - Implement Monoid for that type
