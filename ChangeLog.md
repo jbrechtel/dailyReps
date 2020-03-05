@@ -12,4 +12,5 @@
 - 2020-02-28: Reps, 10 min. Changed Maybe to Either. Thought about how some
   typeclasses can't be implemented with Either or require arbitrary tradeoffs
 
+- 2020-03-04: Reps 5 min
 
