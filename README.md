@@ -18,6 +18,8 @@ practice and a library of these exercises that can be used by others.
 # Current workout detail
 
 - Write `foldl` for a list. A function that goes from `(b -> a -> b) -> b -> [a] -> b`
+- Write `foldr` for a list. A function that goes from `(a -> b -> b) -> b -> [a]
+  -> b` and is right associative
 - Implement my own version of Either
 - Implement Functor for that type
 - Implement Applicative for that type
