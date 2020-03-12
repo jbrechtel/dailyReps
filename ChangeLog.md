@@ -15,4 +15,5 @@
 - 2020-03-04: Reps 5 min
 - 2020-03-09: Reps 10 min - stuck on dumb issue with Semigroup
 - 2020-03-11: Reps 5 min
+- 2020-03-12: Reps 5 min
 
